@@ -1,0 +1,6 @@
+{
+  "name": "SAYA Voice Assistant",
+  "description": "A premium, Siri-like voice assistant with dark-mode minimalist Apple Intelligence aesthetic, voice input/output, command routing, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
